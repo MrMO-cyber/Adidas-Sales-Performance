@@ -1,16 +1,16 @@
 # Adidas Sales Performance Analysis
 
-[cite_start]This project is a comprehensive data analysis and visualization of **Adidas Sales Performance**, developed as part of the Excel Camp program at **King Khalid University** in collaboration with **PASDS**[cite: 177, 179, 180]. [cite_start]The project transforms raw sales data into actionable business insights using advanced Excel techniques and interactive dashboards[cite: 181, 182].
+This project is a comprehensive data analysis and visualization of **Adidas Sales Performance**, developed as part of the Excel Camp program at **King Khalid University** in collaboration with **PASDS**. The project transforms raw sales data into actionable business insights using advanced Excel techniques and interactive dashboards[cite: 181, 182].
 
 ---
 
 ## 📊 Dashboard Highlights
-[cite_start]The analysis focuses on key sales dimensions to identify performance drivers and seasonal trends[cite: 184]:
+The analysis focuses on key sales dimensions to identify performance drivers and seasonal trends[cite: 184]:
 
-* [cite_start]**Top Product**: **Men's Streetwear** emerged as the highest-selling product, generating a total of **208,826,244** in sales[cite: 195, 196].
-* [cite_start]**Leading Region**: The **West** region achieved the highest total sales across the analyzed areas[cite: 197, 198].
-* [cite_start]**Best Sales Method**: **In-store** sales proved to be the top-performing method, accounting for **40%** of total sales[cite: 199, 200].
-* [cite_start]**Sales Seasonality**: Analysis revealed significant fluctuations; sales started lower in 2020 followed by substantial growth in 2021, peaking toward the middle and end of that year[cite: 201, 202, 203].
+* **Top Product**: **Men's Streetwear** emerged as the highest-selling product, generating a total of **208,826,244** in sales.
+* **Leading Region**: The **West** region achieved the highest total sales across the analyzed areas[cite: 197, 198].
+* **Best Sales Method**: **In-store** sales proved to be the top-performing method, accounting for **40%** of total sales.
+* **Sales Seasonality**: Analysis revealed significant fluctuations; sales started lower in 2020 followed by substantial growth in 2021, peaking toward the middle and end of that year.
 
 ---
 
