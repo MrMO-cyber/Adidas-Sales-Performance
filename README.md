@@ -1,32 +1,32 @@
 # Adidas Sales Performance Analysis
 
-This project is a comprehensive data analysis and visualization of **Adidas Sales Performance**, developed as part of the Excel Camp program at **King Khalid University** in collaboration with **PASDS**. The project transforms raw sales data into actionable business insights using advanced Excel techniques and interactive dashboards[cite: 181, 182].
+This project is a comprehensive data analysis and visualization of **Adidas Sales Performance**, developed as part of the Excel Camp program at **King Khalid University** in collaboration with **PASDS**. The project transforms raw sales data into actionable business insights using advanced Excel techniques and interactive dashboards.
 
 ---
 
 ## 📊 Dashboard Highlights
-The analysis focuses on key sales dimensions to identify performance drivers and seasonal trends[cite: 184]:
+The analysis focuses on key sales dimensions to identify performance drivers and seasonal trends:
 
 * **Top Product**: **Men's Streetwear** emerged as the highest-selling product, generating a total of **208,826,244** in sales.
-* **Leading Region**: The **West** region achieved the highest total sales across the analyzed areas[cite: 197, 198].
+* **Leading Region**: The **West** region achieved the highest total sales across the analyzed areas.
 * **Best Sales Method**: **In-store** sales proved to be the top-performing method, accounting for **40%** of total sales.
 * **Sales Seasonality**: Analysis revealed significant fluctuations; sales started lower in 2020 followed by substantial growth in 2021, peaking toward the middle and end of that year.
 
 ---
 
 ## 🛠️ Methodology & Tools
-[cite_start]The project followed a logical data processing workflow to ensure "Professional Simplicity" and technical accuracy[cite: 182, 187]:
+The project followed a logical data processing workflow to ensure "Professional Simplicity" and technical accuracy:
 
-* [cite_start]**Data Processing**: Utilized **Pivot Tables** to analyze sales from four critical angles: products, regions, sales methods, and timeframes[cite: 184].
+* **Data Processing**: Utilized **Pivot Tables** to analyze sales from four critical angles: products, regions, sales methods, and timeframes.
 * **Interactive Visualization**: Developed a dynamic **Dashboard** featuring:
-    * [cite_start]**Charts**: Column, Bar, Donut, and Line charts to visualize trends and rankings[cite: 185, 189].
-    * [cite_start]**Interactivity**: Integrated **Slicers** to allow users to filter and browse data seamlessly[cite: 185].
-* [cite_start]**Automation (VBA)**: Implemented custom **VBA scripts** to automate tasks, including printing numerical sequences and creating a custom function for employee bonus classification[cite: 185].
-* [cite_start]**AI Integration**: Leveraged **Gemini** to assist in understanding and refining VBA code logic[cite: 189].
+    * **Charts**: Column, Bar, Donut, and Line charts to visualize trends and rankings.
+    * **Interactivity**: Integrated **Slicers** to allow users to filter and browse data seamlessly.
+* **Automation (VBA)**: Implemented custom **VBA scripts** to automate tasks, including printing numerical sequences and creating a custom function for employee bonus classification.
+* **AI Integration**: Leveraged **Gemini** to assist in understanding and refining VBA code logic.
 
 ---
 
 ## 📈 Key Insights Gained
-* [cite_start]Extracted commercial insights such as identifying top-tier products and regional market leaders[cite: 192].
-* [cite_start]Mastered the ability to detect seasonality and sales trends over multi-year periods[cite: 192].
-* [cite_start]Balanced technical complexity with professional design to ensure reports are both attractive and easy to read[cite: 193].
+* Extracted commercial insights such as identifying top-tier products and regional market leaders.
+* Mastered the ability to detect seasonality and sales trends over multi-year periods.
+* Balanced technical complexity with professional design to ensure reports are both attractive and easy to read.
